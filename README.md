@@ -1,2 +1,2 @@
 # satyarepo
-thintam pandam
+it's a repo
